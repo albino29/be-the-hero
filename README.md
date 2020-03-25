@@ -1,7 +1,5 @@
-# Be the Hero
-
 <h1 align="center">
-  <img src="./frontend/public/be-the-hero.png" alt="be-the-hero-logo" style="width:200px;"/>
+  <img src="./frontend/public/be-the-hero.png" alt="be-the-hero-logo" style="width:100px;"/>
 </h1>
 
 ### Aplicação desenvolvida na semana OminiStack 11
