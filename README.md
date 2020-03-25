@@ -1,12 +1,10 @@
-# Be the Hero
-
 <h1 align="center">
   <img src="./frontend/public/be-the-hero-large.png" alt="be-the-hero-logo" style="width:200px;"/>
 </h1>
 
-### Aplicação desenvolvida na semana OminiStack 11
+Aplicação desenvolvida na semana OminiStack 11
 
-## Rotas
+**Rotas**
 
 Essas sãos as rotas disponíveis na aplicação.
 
