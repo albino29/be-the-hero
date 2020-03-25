@@ -1,6 +1,10 @@
-![be-the-hero](/frontend/public/be-the-hero-large.png?v=4&s=200)
+<h1 align="center">
+  <img alt="be-the-hero" title="BeTheHero" src="./frontend/public/be-the-hero-medium.png" width="200px" />
+</h1>
 
-Aplicação desenvolvida na semana OminiStack 11
+<h3 align="center">
+  Aplicação desenvolvida na semana OminiStack 11
+</h3>
 
 **Rotas**
 
