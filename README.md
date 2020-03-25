@@ -1,4 +1,4 @@
-![be-the-hero](/frontend/public/be-the-hero-large.png){:width="200px"}
+![be-the-hero](/frontend/public/be-the-hero-large.png?v=4&s=200)
 
 Aplicação desenvolvida na semana OminiStack 11
 
