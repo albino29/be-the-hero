@@ -1,7 +1,3 @@
-<!-- <h3 align="center">
-  <img src="./frontend/public/be-the-hero-large.png" alt="be-the-hero-logo" width:200px;/>
-</h3> -->
-
 ![be-the-hero](/frontend/public/be-the-hero-large.png =200x)
 
 Aplicação desenvolvida na semana OminiStack 11
