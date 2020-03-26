@@ -29,7 +29,7 @@ export default function Logon() {
   return (
     <div className="logon-container">
       <section className="form">
-        <img src={logoImg} alt="be-the-hero" />
+        <img src={logoImg} className="logo" alt="be-the-hero" width={200} />
 
         <form onSubmit={handleLogin}>
           <h1>Faça seu logon</h1>
