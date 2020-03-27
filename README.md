@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img alt="be-the-hero" title="BeTheHero" src="./frontend/public/be-the-hero-medium.png" width="200px" />
+  <!-- <img alt="be-the-hero" title="BeTheHero" src="./frontend/public/be-the-hero-medium.png" width="200px" /> -->
+@import "./frontend/public/be-the-hero-medium.png" {width="300px" height="200px" alt="my image"}
 </h1>
 
 <h3 align="center">
