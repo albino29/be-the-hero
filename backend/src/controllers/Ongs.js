@@ -12,7 +12,7 @@ class OngsController {
       email,
       whatsapp,
       city,
-      uf
+      uf,
     });
 
     return res.status(201).json({ id });

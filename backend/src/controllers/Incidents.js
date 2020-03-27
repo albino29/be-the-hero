@@ -9,7 +9,7 @@ class IncidentsController {
       title,
       description,
       value,
-      ong_id
+      ong_id,
     });
 
     return res.status(201).json({ id });
@@ -30,7 +30,7 @@ class IncidentsController {
         'ongs.email',
         'ongs.whatsapp',
         'ongs.city',
-        'ongs.uf'
+        'ongs.uf',
       ]);
 
     res.header('X-Total-Count', count['count(*)']);
@@ -49,9 +49,7 @@ class IncidentsController {
     if (ong_id !== incidents.ong_id)
       return res.status(401).json({ error: 'Cannot delete!' });
 
-    await connection('incidents')
-      .where('id', id)
-      .delete();
+    await connection('incidents').where('id', id).delete();
 
     return res.status(204).send();
   }
